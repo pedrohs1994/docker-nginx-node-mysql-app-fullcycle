@@ -18,6 +18,7 @@ services:
   app:
     build:
       context: .
+    image: phs1994/node_app
     container_name: app
     networks:
       - node_app_network
