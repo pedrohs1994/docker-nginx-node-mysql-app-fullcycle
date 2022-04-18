@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "moxname": "^1.0.6",
+    "mysql": "^2.18.1"
+  }
+}
